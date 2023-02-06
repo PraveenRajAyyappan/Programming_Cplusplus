@@ -14,6 +14,6 @@
 <h2>Programmed best time to buy and sell problem ,have only one solution pair that has max profit.</h2>
 
 <p>
--- Always make use of the prebuilt function availble, look for it.
+-- Always make use of the prebuilt function availble, look for it.<br>
 -- max, min function
 </p>
